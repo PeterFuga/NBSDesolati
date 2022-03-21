@@ -1,0 +1,5 @@
+0.0.0.0 hlavnespravy.sk
+0.0.0.0 armadnymagazin.sk
+0.0.0.0 hlavnydennik.sk
+0.0.0.0 infovojna.bz
+0.0.0.0 infovojna.sk
